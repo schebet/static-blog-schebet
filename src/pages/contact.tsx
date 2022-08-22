@@ -57,7 +57,7 @@ export const NotFound: FunctionComponent = () => {
           <div className="lg:pr-8">
             <div className="max-w-md mx-auto sm:max-w-lg lg:mx-0">
               <h2 className="text-3xl leading-9 font-extrabold tracking-tight sm:text-4xl sm:leading-10">
-                Contact Me
+                Želite da stupite u kontakt:
               </h2>
               <form
                 name={FORM_NAME}
@@ -125,10 +125,10 @@ export const NotFound: FunctionComponent = () => {
                       htmlFor="phone"
                       className="block text-sm font-medium leading-5 text-gray-700"
                     >
-                     TELEFON
+                    broj telefona:
                     </label>
                     <span className="text-sm leading-5 text-gray-500">
-                      Optional
+                      nije obavezno
                     </span>
                   </div>
                   <div className="mt-1 relative rounded-md shadow-sm">
@@ -147,10 +147,10 @@ export const NotFound: FunctionComponent = () => {
                       htmlFor="message"
                       className="block text-sm font-medium leading-5 text-gray-700"
                     >
-                     PORUKA
+                     Poruka koju želite da uputite:
                     </label>
                     <span className="text-sm leading-5 text-gray-500">
-                      Max. 500 characters
+                      Max. 500 karaktera
                     </span>
                   </div>
                   <div className="mt-1 relative rounded-md shadow-sm">
