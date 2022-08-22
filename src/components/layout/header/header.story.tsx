@@ -7,11 +7,11 @@ const story = storiesOf("Components|Layout", module);
 
 const data: MenuItem[] = [
   {
-    label: "Home",
+    label: "NASLOVNA",
     href: "/",
   },
   {
-    label: "About",
+    label: "O NAMA",
     href: "/about/",
   },
   {

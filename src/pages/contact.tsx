@@ -72,7 +72,7 @@ export const NotFound: FunctionComponent = () => {
                     htmlFor="first_name"
                     className="block text-sm font-medium leading-5 text-gray-700"
                   >
-                    First name
+                    IME
                   </label>
                   <div className="mt-1 relative rounded-md shadow-sm">
                     <input
@@ -89,7 +89,7 @@ export const NotFound: FunctionComponent = () => {
                     htmlFor="last_name"
                     className="block text-sm font-medium leading-5 text-gray-700"
                   >
-                    Last name
+                    PREZIME
                   </label>
                   <div className="mt-1 relative rounded-md shadow-sm">
                     <input
@@ -125,7 +125,7 @@ export const NotFound: FunctionComponent = () => {
                       htmlFor="phone"
                       className="block text-sm font-medium leading-5 text-gray-700"
                     >
-                      Phone
+                     TELEFON
                     </label>
                     <span className="text-sm leading-5 text-gray-500">
                       Optional
@@ -147,7 +147,7 @@ export const NotFound: FunctionComponent = () => {
                       htmlFor="message"
                       className="block text-sm font-medium leading-5 text-gray-700"
                     >
-                      Message
+                     PORUKA
                     </label>
                     <span className="text-sm leading-5 text-gray-500">
                       Max. 500 characters
@@ -171,7 +171,7 @@ export const NotFound: FunctionComponent = () => {
                       type="submit"
                       className="inline-flex justify-center py-2 px-4 border border-transparent text-sm leading-5 font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-500 focus:outline-none focus:border-indigo-700 focus:shadow-outline-indigo active:bg-indigo-700 transition duration-150 ease-in-out"
                     >
-                      Submit
+                      POTVRDI
                     </button>
                   </span>
                 </div>

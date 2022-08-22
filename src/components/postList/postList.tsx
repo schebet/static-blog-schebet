@@ -47,7 +47,7 @@ export const PostListItem: FunctionComponent<PostSnippet> = ({
         </div>
         <div className="mt-4">
           <a href={href} className="block font-medium tracking-wide">
-            Read More
+           ČITAJ VIŠE
           </a>
         </div>
       </div>

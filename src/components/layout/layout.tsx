@@ -9,11 +9,11 @@ import icon from "../../../static/logo.png";
 const logo = <img className="w-auto h-15" src={icon} alt="Workflow" />;
 const menuItems: MenuItem[] = [
   {
-    label: "Home",
+    label: "NASLOVNA",
     href: "/",
   },
   {
-    label: "Contact",
+    label: "KONTAKT",
     href: "/contact",
   },
 ];
