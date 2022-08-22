@@ -106,7 +106,7 @@ export const Footer: FunctionComponent<Footer> = ({
         </div>
         <div className="mt-8 md:mt-0 md:order-1">
           <p className="text-center text-base leading-6 text-gray-400">
-            © {new Date().getFullYear()} {copyrightOwner}. All rights reserved.
+            © {new Date().getFullYear()} {copyrightOwner}. 
           </p>
         </div>
       </div>
