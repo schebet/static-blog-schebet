@@ -4,7 +4,7 @@ import { Layout } from "../components/layout";
 export const NotFound: FunctionComponent = () => {
   return (
     <Layout>
-      <h1 className="text-3xl text-center my-6">nije pronađen</h1>
+      <h1 className="text-3xl text-center my-6">nije pronađena stranica</h1>
       <img className="max-w-5xl mx-auto my-6" src="/404.jpeg"></img>
     </Layout>
   );
