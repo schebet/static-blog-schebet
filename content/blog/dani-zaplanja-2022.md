@@ -3,7 +3,7 @@ template: blog-post
 title: Dani Zaplanja 2022
 publishedDate: 2022-08-19T21:21:00.000Z
 description: Dani Zaplanja 2022
-featured: true
+featured: false
 img: ../../static/images/1.jpg
 imgAlt: Dani Zaplanja 2022
 tags:
