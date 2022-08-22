@@ -4,7 +4,7 @@ import { Layout } from "../components/layout";
 export const ContactSuccess: FunctionComponent = () => {
   return (
     <Layout>
-      <h1 className="text-3xl text-center my-6">Thank You</h1>
+      <h1 className="text-3xl text-center my-6">hvala!</h1>
       <p className="text-center">
         Your message has been received. I will get back to you as soon as I can!
       </p>
