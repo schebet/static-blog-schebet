@@ -1,7 +1,7 @@
-const siteName = "Sample Blog";
+const siteName = "Zaplanje";
 const siteShortName = "Sample Blog";
-const siteUrl = "https://geek.sg/";
-const siteDescription = "Sample blog template";
+const siteUrl = "https://zaplanje.netlify.app/";
+const siteDescription = "Zaplanje";
 const siteKeyword = "";
 const siteLogo = "logo.png";
 const siteLogoFolder = `static/${siteLogo}`;
