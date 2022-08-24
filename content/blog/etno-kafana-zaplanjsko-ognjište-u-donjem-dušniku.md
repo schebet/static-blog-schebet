@@ -3,7 +3,7 @@ template: blog-post
 title: Etno kafana " ZAPLANJSKO OGNJIŠTE" u Donjem Dušniku
 publishedDate: 2022-08-24T16:18:37.374Z
 description: Etno kafana " ZAPLANJSKO OGNJIŠTE" u Donjem Dušniku
-featured: false
+featured: true
 img: ../../static/images/etno-kafana-zaplanjsko-ognjište-u-donjem-dušniku4.jpg
 imgAlt: Etno kafana " ZAPLANJSKO OGNJIŠTE" u Donjem Dušniku
 tags:
