@@ -39,7 +39,7 @@ export const pageQuery = graphql`
       }
     }
     recentPosts: allMarkdownRemark(
-      limit: 10
+      limit: 8
       sort: { fields: [frontmatter___publishedDate], order: DESC }
     ) {
       edges {
