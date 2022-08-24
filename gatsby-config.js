@@ -1,8 +1,8 @@
 const siteName = "Zaplanje";
-const siteShortName = "Sample Blog";
+const siteShortName = "Zaplanje";
 const siteUrl = "https://zaplanje.netlify.app/";
 const siteDescription = "Zaplanje";
-const siteKeyword = "";
+const siteKeyword = "Zaplanje";
 const siteLogo = "logo.png";
 const siteLogoFolder = `static/${siteLogo}`;
 
