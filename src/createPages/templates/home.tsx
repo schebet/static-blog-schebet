@@ -11,7 +11,7 @@ import { SEO } from "../../components/seo";
 export const pageQuery = graphql`
   {
     featuredPosts: allMarkdownRemark(
-      limit: 9
+      limit: 12
       sort: { fields: [frontmatter___publishedDate], order: DESC }
       filter: { frontmatter: { featured: { eq: true } } }
     ) {
