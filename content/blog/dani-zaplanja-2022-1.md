@@ -4,7 +4,7 @@ title: DANI ZAPLANJA 2022
 publishedDate: 2022-08-22T19:36:34.798Z
 description: |
   U Donjem Dušniku  završena je manifestacija "DANI ZAPLANJA" 2022 god.
-featured: true
+featured: false
 img: ../../static/images/dz.jpg
 imgAlt: dani Zaplanja
 tags:
